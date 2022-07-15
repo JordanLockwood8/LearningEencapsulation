@@ -1,0 +1,15 @@
+C:\Users\install\OneDrive\Desktop\Repos\LearningEncapsulation\EncapsulationEx1\EncapsulationEx1\bin\Debug\net6.0\EncapsulationEx1.exe
+C:\Users\install\OneDrive\Desktop\Repos\LearningEncapsulation\EncapsulationEx1\EncapsulationEx1\bin\Debug\net6.0\EncapsulationEx1.deps.json
+C:\Users\install\OneDrive\Desktop\Repos\LearningEncapsulation\EncapsulationEx1\EncapsulationEx1\bin\Debug\net6.0\EncapsulationEx1.runtimeconfig.json
+C:\Users\install\OneDrive\Desktop\Repos\LearningEncapsulation\EncapsulationEx1\EncapsulationEx1\bin\Debug\net6.0\EncapsulationEx1.dll
+C:\Users\install\OneDrive\Desktop\Repos\LearningEncapsulation\EncapsulationEx1\EncapsulationEx1\bin\Debug\net6.0\EncapsulationEx1.pdb
+C:\Users\install\OneDrive\Desktop\Repos\LearningEncapsulation\EncapsulationEx1\EncapsulationEx1\obj\Debug\net6.0\EncapsulationEx1.csproj.AssemblyReference.cache
+C:\Users\install\OneDrive\Desktop\Repos\LearningEncapsulation\EncapsulationEx1\EncapsulationEx1\obj\Debug\net6.0\EncapsulationEx1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\install\OneDrive\Desktop\Repos\LearningEncapsulation\EncapsulationEx1\EncapsulationEx1\obj\Debug\net6.0\EncapsulationEx1.AssemblyInfoInputs.cache
+C:\Users\install\OneDrive\Desktop\Repos\LearningEncapsulation\EncapsulationEx1\EncapsulationEx1\obj\Debug\net6.0\EncapsulationEx1.AssemblyInfo.cs
+C:\Users\install\OneDrive\Desktop\Repos\LearningEncapsulation\EncapsulationEx1\EncapsulationEx1\obj\Debug\net6.0\EncapsulationEx1.csproj.CoreCompileInputs.cache
+C:\Users\install\OneDrive\Desktop\Repos\LearningEncapsulation\EncapsulationEx1\EncapsulationEx1\obj\Debug\net6.0\EncapsulationEx1.dll
+C:\Users\install\OneDrive\Desktop\Repos\LearningEncapsulation\EncapsulationEx1\EncapsulationEx1\obj\Debug\net6.0\refint\EncapsulationEx1.dll
+C:\Users\install\OneDrive\Desktop\Repos\LearningEncapsulation\EncapsulationEx1\EncapsulationEx1\obj\Debug\net6.0\EncapsulationEx1.pdb
+C:\Users\install\OneDrive\Desktop\Repos\LearningEncapsulation\EncapsulationEx1\EncapsulationEx1\obj\Debug\net6.0\EncapsulationEx1.genruntimeconfig.cache
+C:\Users\install\OneDrive\Desktop\Repos\LearningEncapsulation\EncapsulationEx1\EncapsulationEx1\obj\Debug\net6.0\ref\EncapsulationEx1.dll
